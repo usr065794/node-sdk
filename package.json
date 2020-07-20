@@ -1,6 +1,6 @@
 {
-  "name": "ibm-watson",
-  "version": "5.6.0",
+  "name": "ibm-watson 702020 230P",
+  "version": "0.0.0",
   "description": "Client library to use the IBM Watson Services",
   "repository": {
     "type": "git",
